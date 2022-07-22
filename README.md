@@ -54,4 +54,4 @@ or
 Now you are done installing ROS2, try to write command: 
 - ROS2 topic list 
 
-and you'll see the default two topics indicating that ros is successfully running. 
+and you'll see the default two topics indicating that ros is successfully running.
